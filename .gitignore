@@ -1,0 +1,6 @@
+venv/
+__pycashe__/
+*.pyc
+.env
+*.sqlite3
+
