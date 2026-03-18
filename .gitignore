@@ -1,6 +1,20 @@
+# Virtual environment
 venv/
-__pycashe__/
+
+# Python cache
+__pycache__/
 *.pyc
+
+# Environment variables
 .env
+
+# Database files (if any SQLite)
 *.sqlite3
 
+# Logs
+*.log
+
+# Editor directories
+.vscode/
+.idea/
+.DS_Store
